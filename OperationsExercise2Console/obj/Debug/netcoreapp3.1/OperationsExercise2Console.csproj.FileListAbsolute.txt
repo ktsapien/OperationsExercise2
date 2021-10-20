@@ -1,0 +1,14 @@
+C:\Users\12056\repos\OperationsExercise2\OperationsExercise2Console\bin\Debug\netcoreapp3.1\OperationsExercise2Console.exe
+C:\Users\12056\repos\OperationsExercise2\OperationsExercise2Console\bin\Debug\netcoreapp3.1\OperationsExercise2Console.deps.json
+C:\Users\12056\repos\OperationsExercise2\OperationsExercise2Console\bin\Debug\netcoreapp3.1\OperationsExercise2Console.runtimeconfig.json
+C:\Users\12056\repos\OperationsExercise2\OperationsExercise2Console\bin\Debug\netcoreapp3.1\OperationsExercise2Console.runtimeconfig.dev.json
+C:\Users\12056\repos\OperationsExercise2\OperationsExercise2Console\bin\Debug\netcoreapp3.1\OperationsExercise2Console.dll
+C:\Users\12056\repos\OperationsExercise2\OperationsExercise2Console\bin\Debug\netcoreapp3.1\OperationsExercise2Console.pdb
+C:\Users\12056\repos\OperationsExercise2\OperationsExercise2Console\obj\Debug\netcoreapp3.1\OperationsExercise2Console.csproj.AssemblyReference.cache
+C:\Users\12056\repos\OperationsExercise2\OperationsExercise2Console\obj\Debug\netcoreapp3.1\OperationsExercise2Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12056\repos\OperationsExercise2\OperationsExercise2Console\obj\Debug\netcoreapp3.1\OperationsExercise2Console.AssemblyInfoInputs.cache
+C:\Users\12056\repos\OperationsExercise2\OperationsExercise2Console\obj\Debug\netcoreapp3.1\OperationsExercise2Console.AssemblyInfo.cs
+C:\Users\12056\repos\OperationsExercise2\OperationsExercise2Console\obj\Debug\netcoreapp3.1\OperationsExercise2Console.csproj.CoreCompileInputs.cache
+C:\Users\12056\repos\OperationsExercise2\OperationsExercise2Console\obj\Debug\netcoreapp3.1\OperationsExercise2Console.dll
+C:\Users\12056\repos\OperationsExercise2\OperationsExercise2Console\obj\Debug\netcoreapp3.1\OperationsExercise2Console.pdb
+C:\Users\12056\repos\OperationsExercise2\OperationsExercise2Console\obj\Debug\netcoreapp3.1\OperationsExercise2Console.genruntimeconfig.cache
